@@ -1,5 +1,6 @@
 # botinki
 An LLM-powered framework for building interactive simulations to train and test cognitive security and strategic communication skills.
+![Botinki Framework Logo](./botinki.png)
 
 ### How to Use This Simulation Framework: A Step-by-Step Guide
 
